@@ -172,4 +172,6 @@ Enable real-time packet capture and inference in production
 
 👨‍💻 Authors
 Yanushka Kumar
+Sahan Amarasena
+Kalana Thathsara
 Machine Learning, Flask API, Prometheus Integration
